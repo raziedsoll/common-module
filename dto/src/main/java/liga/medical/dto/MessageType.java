@@ -1,4 +1,4 @@
-package liga.medical.model;
+package liga.medical.dto;
 
 public enum MessageType {
     DAILY,
